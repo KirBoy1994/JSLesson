@@ -1,0 +1,14 @@
+{
+   "html":{
+      "snippets":{
+         "ull": "ul>li*3",
+         "tbl": "table>tr*2>td*2" 
+      }
+   },
+   "css":{
+         "snippets":{
+            "cmt": "/* ${1} */"
+         }
+   }
+
+}
